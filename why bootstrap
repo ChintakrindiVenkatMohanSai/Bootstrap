@@ -1,0 +1,100 @@
+
+
+Bootstrap is widely used because it solves common web-design problems quickly and makes development easier. Here’s why developers prefer Bootstrap:
+
+ Why Bootstrap?
+1. Mobile-first and Responsive
+
+Bootstrap automatically adjusts websites for:
+
+Mobile
+
+Tablet
+
+Laptop
+
+Large screens
+
+No need to write separate CSS for every device.
+
+2. Faster Development
+
+It provides ready-made components, so you don't need to design everything from scratch:
+
+Buttons
+
+Forms
+
+Cards
+
+Navbars
+
+Modals
+
+Tables
+
+Grid layout
+
+Just use classes → UI becomes ready in seconds.
+
+3. Consistent Design
+
+All components follow a uniform style, so your website looks clean and professional without much effort.
+
+4. Powerful Grid System
+
+The 12-column responsive grid is Bootstrap’s biggest strength.
+You can create any layout easily using simple classes like:
+
+col-6 col-md-4 col-lg-3
+
+5. Customizable
+
+You can:
+
+Change colors
+
+Edit themes
+
+Override styles
+
+Create your own design on top of Bootstrap
+
+6. Large Community & Support
+
+Millions of developers use Bootstrap →
+You get:
+
+Tons of tutorials
+
+Ready templates
+
+Free themes
+
+Quick solutions for errors
+
+7. Cross-Browser Compatible
+
+It works correctly in all major browsers:
+
+Chrome
+
+Firefox
+
+Edge
+
+Safari
+
+8. Free and Open Source
+
+You can use it anywhere → personal, college projects, professional websites.
+
+ When to Use Bootstrap?
+
+Building websites quickly
+
+When you want a responsive layout
+
+For portfolio, landing page, business site
+
+When you don’t want to write too much raw CSS
